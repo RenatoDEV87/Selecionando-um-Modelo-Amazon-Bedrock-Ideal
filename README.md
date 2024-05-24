@@ -1,4 +1,4 @@
-# Treinando Desafios de Códigos com IAs Generativas
+# Treinando Desafios de Códigos com IAs Generativas (Desafio do Bootcamp da Dio.me)
 
 ## Selecionando um Modelo Amazon Bedrock Ideal
 
